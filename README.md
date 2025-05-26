@@ -24,8 +24,6 @@ This Pizza Sales Analysis Project featuring a dynamic Power BI dashboard that br
 
 
 # Power BI Dashboard
-This is an interactive Power BI Dashboard , you can interact with this dashboard from https://www.novypro.com/project/pizza-sales-report-power-bi-3
-
 Pizza Sales Overview REPORT
 
 <img width="618" alt="image" src="pizzas_sales_dashboard_home.jpg">
