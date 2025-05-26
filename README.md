@@ -28,7 +28,7 @@ This is an interactive Power BI Dashboard , you can interact with this dashboard
 
 Pizza Sales Overview REPORT
 
-<img width="618" alt="image" src=""C:\Users\vishv\OneDrive\Pictures\Screenshots\pizzas_sales_dashboard_home.jpg"">
+<img width="618" alt="image" src="pizzas_sales_dashboard_home.jpg">
 
 Pizza Sales Overview REPORT based on Best/Worst Sellers
 
